@@ -3,7 +3,7 @@ name: spiral-confession
 description: Transform generic emotional statements into layered confessional narratives that spiral from surface behavior into psychological architecture, revealing the internalized voices and patterns driving...
 license: MIT
 metadata:
-  version: 1.0.5035
+  version: 1.0.5036
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
